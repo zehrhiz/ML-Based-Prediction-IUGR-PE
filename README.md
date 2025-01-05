@@ -1,4 +1,4 @@
-# ML-Based-Prediction-IUGR-PE/Classification of IUGR and Preeclampsia**
+# **ML-Based Classification of IUGR and Preeclampsia**
 Poster Presented at "1st International Conference on Maternal Fetal Medicine"
 Organized By Aga Khan University, Department of Obstetrics & Gynaecology Section of Maternal Fetal Medicine
 on Saturday, November 25, 2023
